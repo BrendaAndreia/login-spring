@@ -32,7 +32,7 @@ O projeto inclui configuração completa de segurança, utilizando JWT para aute
 - `SecurityConfig`: Configurações relacionadas à segurança da aplicação, incluindo configurações CSRF e políticas de sessão.
 - `AuthenticationService`: Serviço que gerencia o registro e a autenticação dos usuários.
 
-## Futuro 💫
+## Futuro 🆙
 
 Estes são os planos futuros para o projeto:
 
