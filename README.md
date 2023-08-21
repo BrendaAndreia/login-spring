@@ -45,6 +45,7 @@ Estes são os planos futuros para o projeto:
 2.  Clone o repositório.
 3. Configure o banco de dados PostgreSQL de acordo com as suas necessidades.
 4. Execute o projeto
+5. E faça o teste de API com sua ferramenta de preferência(Insomnia, Postman)
 
 ## Contribuição
 
